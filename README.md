@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacokok&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacokok&count_private=true&theme=dracula&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacokok&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacokok&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacokok&theme=dracula&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
 **jacokok/jacokok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
